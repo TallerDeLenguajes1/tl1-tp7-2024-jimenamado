@@ -1,0 +1,5 @@
+C:\Users\user\Documents\PROGRAMADOR\Modulo3\TallerDeLenguajeI\Practica\Tp7\tl1-tp7-2024-jimenamado\Ejercicio2\obj\Debug\net8.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PROGRAMADOR\Modulo3\TallerDeLenguajeI\Practica\Tp7\tl1-tp7-2024-jimenamado\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PROGRAMADOR\Modulo3\TallerDeLenguajeI\Practica\Tp7\tl1-tp7-2024-jimenamado\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\user\Documents\PROGRAMADOR\Modulo3\TallerDeLenguajeI\Practica\Tp7\tl1-tp7-2024-jimenamado\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROGRAMADOR\Modulo3\TallerDeLenguajeI\Practica\Tp7\tl1-tp7-2024-jimenamado\Ejercicio2\obj\Debug\net8.0\Ejercicio2.sourcelink.json
